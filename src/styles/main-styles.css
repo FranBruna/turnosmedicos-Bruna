@@ -27,7 +27,7 @@ body {
 
 .preHeader a {
   font-size: 1.2rem;
-  color: black;
+  color: lightblue;
   text-decoration: none;
   padding: 0.5rem 1rem;
   border: 2px solid black;
@@ -61,7 +61,7 @@ body {
   letter-spacing: 2px;
   color: black;
   text-shadow: 2px 2px 4px white;
-  background-image: url("../images/otrocli.gif");
+  background-color: #330066;
   border-radius: 2rem;
   border-style: solid;
   border-color: lightblue;
@@ -88,8 +88,7 @@ body {
   border: none;
   font-size: 1.125rem;
   color: #595959;
-  box-shadow: inset 0.25rem 0.25rem 0.625rem #babecc,
-    inset -0.625rem -0.625rem 1.25rem #ffffff73;
+  box-shadow: inset 0.25rem 0.25rem 0.625rem #babecc, inset -0.625rem -0.625rem 1.25rem #ffffff73;
 }
 
 @media screen and (max-width: 1440px) {
