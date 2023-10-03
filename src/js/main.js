@@ -37,7 +37,7 @@ function login(e) {
     });
   } else {
     password.classList.add("input-error");
-    alert("top", "error", `ERROR EN USUARIO O CONTRASEÑA`, 1500);
+    alert("top", "error", `USUARIO O CONTRASEÑA INCORRECTOS`, 1500);
   }
 }
 
