@@ -37,7 +37,7 @@ export const APPOINTMENT_SCHEDULE = [
     hora4: "11:50am",
   },
   {
-    area: "ENDOCRINOLOGIA",
+    area: "NEUROLOGIA",
     dia: "Miércoles",
     hora: "11:45am",
     hora2: "15:45pm",
