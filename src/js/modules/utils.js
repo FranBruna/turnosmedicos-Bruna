@@ -69,5 +69,9 @@ export const HEALTH_INSURANCES = [
   { nombre: "BOREAL" },
   { nombre: "SWISS MEDICAL" },
   { nombre: "MEDIFE" },
-  { nombre: "AVALIAN" },
+  { nombre: "NOBIS" },
+  { nombre: "IOSFA" },
+  { nombre: "OSUNSA" },
+  { nombre: "PROVINCIA ART" },
+  { nombre: "SWISS MEDICAL ART" },
 ];
