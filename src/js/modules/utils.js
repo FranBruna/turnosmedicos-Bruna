@@ -29,7 +29,7 @@ export const APPOINTMENT_SCHEDULE = [
     hora6: "11:30am",
   },
   {
-    area: "NEUROCIRUGIA",
+    area: "DERMATOLOGIA",
     dia: "Martes",
     hora: "08:50am",
     hora2: "09:50am",
@@ -60,6 +60,30 @@ export const APPOINTMENT_SCHEDULE = [
     hora3: "10:15am",
     hora4: "11:15am",
   },
+  {
+    area: "CARDIOLOGIA",
+    dia: "Viernes",
+    hora: "08:15am",
+    hora2: "09:15am",
+    hora3: "10:15am",
+    hora4: "11:15am",
+  },
+  {
+    area: "PEDRIATÍA/NEONATOLOGÍA",
+    dia: "Viernes",
+    hora: "08:15am",
+    hora2: "09:15am",
+    hora3: "10:15am",
+    hora4: "11:15am",
+  },
+  {
+    area: "OFTALMOLOGIA",
+    dia: "Viernes",
+    hora: "08:15am",
+    hora2: "09:15am",
+    hora3: "10:15am",
+    hora4: "11:15am",
+  },
 ];
 
 export const HEALTH_INSURANCES = [
@@ -74,4 +98,7 @@ export const HEALTH_INSURANCES = [
   { nombre: "OSUNSA" },
   { nombre: "PROVINCIA ART" },
   { nombre: "SWISS MEDICAL ART" },
+  { nombre: "OMINT" },
+  { nombre: "GALENO" },
+  { nombre: "MEDICUS" },
 ];
